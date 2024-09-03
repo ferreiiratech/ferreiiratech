@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -34,9 +34,22 @@
 
 ###
 
+<div>
+  Hello,
+
+I am a Software Engineering undergraduate student dedicated to the continuous development of my skills in the technology field. I have a deep passion for understanding and designing server-side solutions.
+
+During my first semester in college, I had the opportunity to actively participate in the construction of a web application, where I played the role of a backend developer in the JavaScript ecosystem, in addition to performing tests to ensure the quality of the final product. In parallel, I remain immersed in studies about Java and have been conducting personal projects using this language. Recently, I embarked on a learning journey focused on mobile development with Kotlin.
+
+I am excited to expand my knowledge and experience in the technology field, always seeking challenges that allow me to grow and contribute to good projects.
+</div>
+
+
+###
+
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ferreiiratech/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -53,16 +66,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferreiiratech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVqbmE1MXE4emx4cTV1ZWRrbHU1eW9jaDkwZXY5djdkYjY3aGF3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
