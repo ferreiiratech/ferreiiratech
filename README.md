@@ -32,17 +32,6 @@
 
 ###
 
-<div>
-  Hello,
-
-I am a Software Engineering undergraduate student dedicated to the continuous development of my skills in the technology field. I have a deep passion for understanding and designing server-side solutions.
-
-I am excited to expand my knowledge and experience in the technology field, always seeking challenges that allow me to grow and contribute to good projects.
-</div>
-
-
-###
-
 <br clear="both">
 
 <div align="center">
